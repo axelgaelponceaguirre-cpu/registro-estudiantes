@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/[https://axelgaelponceaguirre-cpu.github.io/registro-estudiantes](https://axelgaelponceaguirre-cpu.github.io/registro-estudiantes)/static/css/main.9bf07682.css",
-    "main.js": "/[https://axelgaelponceaguirre-cpu.github.io/registro-estudiantes](https://axelgaelponceaguirre-cpu.github.io/registro-estudiantes)/static/js/main.f60d12d9.js",
-    "static/js/453.79af018a.chunk.js": "/[https://axelgaelponceaguirre-cpu.github.io/registro-estudiantes](https://axelgaelponceaguirre-cpu.github.io/registro-estudiantes)/static/js/453.79af018a.chunk.js",
-    "index.html": "/[https://axelgaelponceaguirre-cpu.github.io/registro-estudiantes](https://axelgaelponceaguirre-cpu.github.io/registro-estudiantes)/index.html",
-    "main.9bf07682.css.map": "/[https://axelgaelponceaguirre-cpu.github.io/registro-estudiantes](https://axelgaelponceaguirre-cpu.github.io/registro-estudiantes)/static/css/main.9bf07682.css.map",
-    "main.f60d12d9.js.map": "/[https://axelgaelponceaguirre-cpu.github.io/registro-estudiantes](https://axelgaelponceaguirre-cpu.github.io/registro-estudiantes)/static/js/main.f60d12d9.js.map",
-    "453.79af018a.chunk.js.map": "/[https://axelgaelponceaguirre-cpu.github.io/registro-estudiantes](https://axelgaelponceaguirre-cpu.github.io/registro-estudiantes)/static/js/453.79af018a.chunk.js.map"
+    "main.css": "./static/css/main.9bf07682.css",
+    "main.js": "./static/js/main.0532f954.js",
+    "static/js/453.79af018a.chunk.js": "./static/js/453.79af018a.chunk.js",
+    "index.html": "./index.html",
+    "main.9bf07682.css.map": "./static/css/main.9bf07682.css.map",
+    "main.0532f954.js.map": "./static/js/main.0532f954.js.map",
+    "453.79af018a.chunk.js.map": "./static/js/453.79af018a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9bf07682.css",
-    "static/js/main.f60d12d9.js"
+    "static/js/main.0532f954.js"
   ]
 }
